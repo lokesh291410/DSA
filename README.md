@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lokesh291410/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokesh291410/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/lokesh291410/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/lokesh291410/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lokesh291410/DSA/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lokesh291410/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/lokesh291410/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lokesh291410/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/lokesh291410/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
