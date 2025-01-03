@@ -19,8 +19,13 @@ class Solution {
             }
         }
 
-        int[][] arr = ans.stream()
-                .map(u -> u.stream().mapToInt(i->i).toArray()  ).toArray(int[][]::new);
+        int[][] arr = new int[ans.size()][2];
+        for(int i = 0; i < ans.size(); i++)
+        {
+            arr[i][0] = ans.get(i).get(0);
+            arr[i][1] = ans.get(i).get(1);
+        }
+    
         return arr;
     }
 }
