@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokesh291410/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lokesh291410/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lokesh291410/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokesh291410/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh291410/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lokesh291410/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lokesh291410/DSA/tree/master/0169-majority-element) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lokesh291410/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lokesh291410/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0151-reverse-words-in-a-string) |
