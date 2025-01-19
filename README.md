@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/lokesh291410/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lokesh291410/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lokesh291410/DSA/tree/master/0062-unique-paths) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/lokesh291410/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lokesh291410/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/lokesh291410/DSA/tree/master/0148-sort-list) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/lokesh291410/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lokesh291410/DSA/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lokesh291410/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
