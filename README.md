@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lokesh291410/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lokesh291410/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh291410/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lokesh291410/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/lokesh291410/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/lokesh291410/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lokesh291410/DSA/tree/master/0169-majority-element) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lokesh291410/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/lokesh291410/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/lokesh291410/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/lokesh291410/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/lokesh291410/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lokesh291410/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/lokesh291410/DSA/tree/master/0141-linked-list-cycle) |
