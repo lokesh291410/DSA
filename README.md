@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh291410/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh291410/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/lokesh291410/DSA/tree/master/0792-binary-search) |
+| [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 | [0907-koko-eating-bananas](https://github.com/lokesh291410/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lokesh291410/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lokesh291410/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lokesh291410/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
+| [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 | [2032-largest-odd-number-in-string](https://github.com/lokesh291410/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Design
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
+| [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 ## Counting
 |  |
 | ------- |
@@ -287,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
