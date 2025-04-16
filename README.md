@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lokesh291410/DSA/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/lokesh291410/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh291410/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/lokesh291410/DSA/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/lokesh291410/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lokesh291410/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
