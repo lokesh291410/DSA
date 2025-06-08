@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokesh291410/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/lokesh291410/DSA/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/lokesh291410/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lokesh291410/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh291410/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/lokesh291410/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/lokesh291410/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lokesh291410/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh291410/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/lokesh291410/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lokesh291410/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokesh291410/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lokesh291410/DSA/tree/master/0735-asteroid-collision) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh291410/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lokesh291410/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokesh291410/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/lokesh291410/DSA/tree/master/0943-sum-of-subarray-minimums) |
