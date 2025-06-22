@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lokesh291410/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lokesh291410/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh291410/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh291410/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/lokesh291410/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh291410/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh291410/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh291410/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/lokesh291410/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/lokesh291410/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh291410/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/lokesh291410/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/lokesh291410/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/lokesh291410/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
