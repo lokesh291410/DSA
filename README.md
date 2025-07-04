@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lokesh291410/DSA/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lokesh291410/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/lokesh291410/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/lokesh291410/DSA/tree/master/2481-strictly-palindromic-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lokesh291410/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/lokesh291410/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/lokesh291410/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/lokesh291410/DSA/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -386,12 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/lokesh291410/DSA/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/lokesh291410/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/lokesh291410/DSA/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 ## Depth-First Search
 |  |
 | ------- |
