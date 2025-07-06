@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lokesh291410/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lokesh291410/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/lokesh291410/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/lokesh291410/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lokesh291410/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokesh291410/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 ## Counting
@@ -455,4 +457,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lokesh291410/DSA/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
