@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lokesh291410/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/lokesh291410/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/lokesh291410/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokesh291410/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -458,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lokesh291410/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
