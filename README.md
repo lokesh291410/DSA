@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/lokesh291410/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokesh291410/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokesh291410/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/lokesh291410/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lokesh291410/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/lokesh291410/DSA/tree/master/0410-split-array-largest-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/lokesh291410/DSA/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/lokesh291410/DSA/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/lokesh291410/DSA/tree/master/0402-remove-k-digits) |
@@ -462,5 +464,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lokesh291410/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
