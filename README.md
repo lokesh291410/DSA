@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lokesh291410/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh291410/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lokesh291410/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lokesh291410/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokesh291410/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lokesh291410/DSA/tree/master/0085-maximal-rectangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lokesh291410/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh291410/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh291410/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lokesh291410/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokesh291410/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/lokesh291410/DSA/tree/master/1036-rotting-oranges) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/lokesh291410/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/lokesh291410/DSA/tree/master/0344-reverse-string) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/lokesh291410/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokesh291410/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lokesh291410/DSA/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
