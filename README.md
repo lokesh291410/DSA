@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lokesh291410/DSA/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
+| [1013-fibonacci-number](https://github.com/lokesh291410/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lokesh291410/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/lokesh291410/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lokesh291410/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/lokesh291410/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/lokesh291410/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/lokesh291410/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/lokesh291410/DSA/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokesh291410/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/lokesh291410/DSA/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/lokesh291410/DSA/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lokesh291410/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lokesh291410/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh291410/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/lokesh291410/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
