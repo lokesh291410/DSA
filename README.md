@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lokesh291410/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lokesh291410/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/lokesh291410/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lokesh291410/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/lokesh291410/DSA/tree/master/0229-majority-element-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lokesh291410/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lokesh291410/DSA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/lokesh291410/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokesh291410/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/lokesh291410/DSA/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/lokesh291410/DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lokesh291410/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/lokesh291410/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lokesh291410/DSA/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/lokesh291410/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lokesh291410/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lokesh291410/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/lokesh291410/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh291410/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lokesh291410/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/lokesh291410/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lokesh291410/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokesh291410/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/lokesh291410/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lokesh291410/DSA/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/lokesh291410/DSA/tree/master/1036-rotting-oranges) |
 ## Graph
