@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lokesh291410/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lokesh291410/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lokesh291410/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/lokesh291410/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/lokesh291410/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lokesh291410/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lokesh291410/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lokesh291410/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh291410/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lokesh291410/DSA/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/lokesh291410/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lokesh291410/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lokesh291410/DSA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/lokesh291410/DSA/tree/master/0127-word-ladder) |
