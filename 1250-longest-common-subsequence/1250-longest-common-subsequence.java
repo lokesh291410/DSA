@@ -11,8 +11,10 @@ class Solution {
 
         if(dp[idx1][idx2] != -1) return dp[idx1][idx2];
 
-        if(s1.charAt(idx1) == s2.charAt(idx2))
-            return 1 + find(idx1 - 1, idx2 - 1, s1, s2, dp);
+        if(s1.charAt(idx1) == s2.charAt(idx2)){
+            dp[idx1][idx2] = 1 + find(idx1 - 1, idx2 - 1, s1, s2, dp);
+            return dp[idx1][idx2];
+        }
         
         dp[idx1][idx2] = Math.max(
                             find(idx1 - 1, idx2, s1, s2, dp),
