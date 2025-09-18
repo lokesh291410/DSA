@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/lokesh291410/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh291410/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh291410/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/lokesh291410/DSA/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/lokesh291410/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/lokesh291410/DSA/tree/master/0792-binary-search) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lokesh291410/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lokesh291410/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lokesh291410/DSA/tree/master/0292-nim-game) |
+| [0679-24-game](https://github.com/lokesh291410/DSA/tree/master/0679-24-game) |
 | [0828-chalkboard-xor-game](https://github.com/lokesh291410/DSA/tree/master/0828-chalkboard-xor-game) |
 | [1013-fibonacci-number](https://github.com/lokesh291410/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/lokesh291410/DSA/tree/master/1086-divisor-game) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lokesh291410/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/lokesh291410/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lokesh291410/DSA/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/lokesh291410/DSA/tree/master/0679-24-game) |
 ## Tree
 |  |
 | ------- |
